@@ -17,7 +17,7 @@ cartBtn.addEventListener('click',()=>{
     }
     else{
         tost.style.visibility="visible"
-        tost.textContent="Item Removed"
+        tost.textContent="Removed"
        cartBtn.textContent="Add to Cart"
        cartBtn.style.backgroundColor='green';
         
