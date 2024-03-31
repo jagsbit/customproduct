@@ -12,7 +12,7 @@ cartBtn.addEventListener('click',()=>{
       
        setTimeout(()=>{
           tost.style.visibility="hidden"
-       },1000);
+       },2000);
        flag=1;
     }
     else{
@@ -23,7 +23,7 @@ cartBtn.addEventListener('click',()=>{
         
        setTimeout(()=>{
           tost.style.visibility="hidden"
-       },1000);
+       },2000);
        flag=0;
 
     }
